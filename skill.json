@@ -1,0 +1,19 @@
+{
+  "name": "genpark-dpll-sat-solver-cnf-backtracking-skill",
+  "version": "1.0.0",
+  "description": "Davis-Putnam-Logemann-Loveland (DPLL) Boolean satisfiability solver with unit propagation and pure literal elimination",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "sat-solver",
+    "dpll",
+    "boolean-satisfiability",
+    "cnf-formula",
+    "automated-reasoning",
+    "formal-methods",
+    "python-standard-library",
+    "agent-skills",
+    "backtracking-search",
+    "propositional-logic"
+  ]
+}
