@@ -1,0 +1,5 @@
+name: genpark-dpll-sat-solver-cnf-backtracking-skill
+description: Davis-Putnam-Logemann-Loveland (DPLL) Boolean satisfiability solver with unit propagation and pure literal elimination
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
